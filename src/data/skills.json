@@ -1,0 +1,82 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png",
+    "category": "Web Technologies"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png",
+    "category": "Tools"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "skills/kotlin.png",
+    "category": "Programming Languages"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png",
+    "category": "Web Technologies"
+  },
+  {
+    "title": "Express.js",
+    "imageSrc": "skills/expressjs.png",
+    "category": "Web Technologies"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png",
+    "category": "Web Technologies"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png",
+    "category": "Tools"
+  },
+  {
+    "title": "VSC",
+    "imageSrc": "skills/vsc.png",
+    "category": "Tools"
+  },
+  {
+    "title": "Android Studio",
+    "imageSrc": "skills/as.png",
+    "category": "Tools"
+  },
+  {
+    "title": "Power BI",
+    "imageSrc": "skills/powerbi.png",
+    "category": "Tools"
+  }
+]

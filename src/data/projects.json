@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Moonlight",
+    "imageSrc": "projects/moonlight.jpeg",
+    "description": "Supplier Management System enables efficient supplier tracking, order processing, and inventory management, streamlining operations and ensuring a seamless workflow.",
+    "skills": ["React", "Express", "Node","MongoDB","JavaScript"],
+    "source": "https://github.com/mithara2008/Moonlight"
+  },
+  {
+    "title": "Buymart ",
+    "imageSrc": "projects/buymart.jpeg",
+    "description": "A user-friendly online store with secure authentication, dynamic product displays, seamless checkout, and an admin panel for efficient product and order management.",
+    "skills": ["HTML", "CSS", "SQL", "PHP"],
+    "source": "https://github.com/mithara2008/Buymart"
+  },
+  {
+    "title": "Event Management",
+    "imageSrc": "projects/em.png",
+    "description": "Successfully organized and managed events, ensuring seamless coordination, effective communication, and timely execution to deliver exceptional experiences.",
+    "skills": ["Java", "Bootstrap", "MySQL"],
+    "source": "https://github.com/mithara2008/Event-Management"
+  },
+  {
+    "title": "Zara Redesign",
+    "imageSrc": "projects/Homepage.png",
+    "description": "Redesigned Zara's website in Figma, improving navigation, homepage layout, product pages, and filters for a modern, user-friendly interface with enhanced visuals, clear CTAs, and faster load times.",
+    "skills": ["Java", "Bootstrap", "MySQL"],
+    "source": "https://github.com/mithara2008/Event-Management"
+  },
+  {
+    "title": "Fruitopia",
+    "imageSrc": "projects/fruitopia.jpeg",
+    "description": "Fruitopia is a fun puzzle game where players swap fruits to match three or more in rows or columns. Score points and advance through levels within limited moves.",
+    "skills": ["Kotlin"],
+    "source": "https://github.com/mithara2008/Event-Management"
+  }
+]

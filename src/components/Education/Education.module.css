@@ -1,0 +1,89 @@
+@import "../../vars.css";
+
+.container {
+  padding: 4rem 2rem;
+  background-color: #04152d;
+  color: #fff;
+  text-align: flex-start;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Allows wrapping for smaller screens */
+  gap: 2rem;
+}
+
+.educationItems {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.educationItem {
+  display: flex; /* Ensures icon and text align horizontally */
+  align-items: center; /* Vertical alignment */
+  background-color: #19376d;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  padding: 1.5rem;
+  width: 600px; /* Adjust width */
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.educationItem:hover {
+  transform: translateY(-10px); /* Move up */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.educationItem:active {
+  transform: translateY(0px); /* Simulates a bounce-like effect */
+}
+
+.icon {
+  width: 70px;
+  height: 70px;
+  margin-right: 1.5rem; /* Space between icon and text */
+  border-radius: 12px;
+}
+
+.educationItemText h3, .educationItemText p {
+  text-align: left;
+  margin: 0;
+}
+
+.educationItemText h3 {
+  font-size: 1.8rem;
+  color: #fff;
+}
+
+.educationItemText p {
+  font-size: 1rem;
+  color: #fff;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 1024px) {
+  .educationItem {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .educationItem {
+    flex-direction: column; /* Stack icon and text vertically */
+    align-items: flex-start;
+    width: 100%;
+  }
+  .icon {
+    margin-bottom: 1rem;
+  }
+}
